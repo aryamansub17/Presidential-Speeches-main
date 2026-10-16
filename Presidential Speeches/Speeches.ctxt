@@ -1,0 +1,10 @@
+#BlueJ class context
+#Fri Oct 16 13:03:24 CDT 2026
+comment0.target=Speeches
+comment0.text=\n Analyze the presidential speeches given by US presidents.\n\n Aryaman Subramanian\n Oct 15 2026\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.params=json key
+comment2.target=java.lang.String extractJsonValue(java.lang.String, java.lang.String)
+comment2.text=\n Extracts the String value associated with a JSON key.\n Example\: extractJsonValue(jsonString, "president") returns "George Washington"\n
+numComments=3

@@ -1,0 +1,60 @@
+President: George Washington
+Date: 1789-04-30
+Word Count: 1444
+Average Word Length: 4.92
+
+people: 5 (0.35%)
+government: 8 (0.55%)
+united: 4 (0.28%)
+our: 1 (0.07%)
+
+President: Thomas Jefferson
+Date: 1801-03-04
+Word Count: 1723
+Average Word Length: 4.76
+
+people: 2 (0.12%)
+government: 12 (0.7%)
+united: 0 (0.0%)
+our: 24 (1.39%)
+
+President: Abraham Lincoln
+Date: 1861-03-04
+Word Count: 3618
+Average Word Length: 4.7
+
+people: 20 (0.55%)
+government: 18 (0.5%)
+united: 5 (0.14%)
+our: 13 (0.36%)
+
+President: Theodore Roosevelt
+Date: 1905-03-04
+Word Count: 910
+Average Word Length: 4.94
+
+people: 6 (0.66%)
+government: 0 (0.0%)
+united: 0 (0.0%)
+our: 19 (2.09%)
+
+President: John F. Kennedy
+Date: 1961-01-20
+Word Count: 1365
+Average Word Length: 4.46
+
+people: 1 (0.07%)
+government: 0 (0.0%)
+united: 2 (0.15%)
+our: 21 (1.54%)
+
+President: Barack Obama
+Date: 2009-01-20
+Word Count: 2402
+Average Word Length: 4.47
+
+people: 6 (0.25%)
+government: 2 (0.08%)
+united: 2 (0.08%)
+our: 67 (2.79%)
+
